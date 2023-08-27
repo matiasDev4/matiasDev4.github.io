@@ -739,6 +739,7 @@ text-align: center;
     text-align: center;
     font-size: 15px;
     color: #ffffff;
+    width: 100%;
 }
 
 /*Curriculum*/
@@ -1341,12 +1342,13 @@ width: 100%;
     transition: 1s;
 }
 }
-@media (max-width: 480px)
+@media (max-width: 460px)
 {
     #banner
     {
         background-position: left;
-        margin-left: 15%;
+        margin-left:9%;
+        width: 75%;
     }
     .form 
     {
@@ -1369,12 +1371,11 @@ width: 100%;
     }
     .titulo-personal h2
     {
-      margin-left: 12%;
+      margin-right: 8%;
     }
     .sobremi .personal
     {
         position: relative;
-        margin-left: 40%;
         align-items: center;
         display: flex;
         width: 80%;
@@ -1388,24 +1389,26 @@ width: 100%;
     }
     .Proyecto 
     {
-        margin-left: 15%;
+        margin-right: 8%;
         display: block;
+        
     }
     .copado h3
     {
         font-size: 30px;
         display: block;
-        margin-left: 18%;
+        margin-right: 15%;
+        
     }
     .sep{
         display: block;
         align-items: center;
-        margin-left: 28%;
+        margin-right: 25%;
     }
     .form-div
     {
         margin-top: 50px;
-        margin-left: 22%;
+        margin-right: 20%;
         
         
     }
@@ -1454,14 +1457,14 @@ width: 100%;
     
     display: flex;
     flex-direction: column;
-    margin-left: 35%;
+    margin-left: 18%;
     
     
     
 }
 .sobremi h1
 {
-    margin-left: 15%;
+    margin-right: 8%;
 }
     .sec
     {
@@ -1476,17 +1479,21 @@ width: 100%;
         
         
     }
+    .logo
+    {
+        margin-left: 2%;
+    }
     
     .boton-descarga
     {
         margin: 0 auto;
-        margin-left: 68px;
+        margin-left: 60px;
 
     }
     .mostrar-menu,
     .esconder-menu{
         display: block;
-        margin-right: 20px;
+        margin-right: 20%;
     }
     .nav {
         position:fixed;
@@ -1518,7 +1525,8 @@ width: 100%;
     }
     .info-yo
     {
-        margin-left: 10%;
+        margin-left: 7%;
+        width: 75%;
     }
 .soy
 { 
