@@ -1347,7 +1347,7 @@ width: 100%;
     #banner
     {
         background-position: left;
-        margin-left:9%;
+        margin-left:15%;
         width: 75%;
     }
     .form 
@@ -1371,7 +1371,7 @@ width: 100%;
     }
     .titulo-personal h2
     {
-      margin-right: 8%;
+      margin-left: 2%;
     }
     .sobremi .personal
     {
@@ -1379,6 +1379,7 @@ width: 100%;
         align-items: center;
         display: flex;
         width: 80%;
+        margin-left: 36%;
     }
     .personal li strong
     {
@@ -1389,7 +1390,7 @@ width: 100%;
     }
     .Proyecto 
     {
-        margin-right: 8%;
+        
         display: block;
         
     }
@@ -1397,18 +1398,18 @@ width: 100%;
     {
         font-size: 30px;
         display: block;
-        margin-right: 15%;
+        
         
     }
     .sep{
         display: block;
         align-items: center;
-        margin-right: 25%;
+        
     }
     .form-div
     {
         margin-top: 50px;
-        margin-right: 20%;
+        margin-right: 10%;
         
         
     }
@@ -1457,15 +1458,12 @@ width: 100%;
     
     display: flex;
     flex-direction: column;
-    margin-left: 18%;
+    margin-left: 26%;
     
     
     
 }
-.sobremi h1
-{
-    margin-right: 8%;
-}
+
     .sec
     {
         margin: 0;
@@ -1487,13 +1485,13 @@ width: 100%;
     .boton-descarga
     {
         margin: 0 auto;
-        margin-left: 60px;
+        margin-left: 85px;
 
     }
     .mostrar-menu,
     .esconder-menu{
         display: block;
-        margin-right: 20%;
+        margin-right: 2%;
     }
     .nav {
         position:fixed;
@@ -1525,7 +1523,7 @@ width: 100%;
     }
     .info-yo
     {
-        margin-left: 7%;
+        margin-left: 12%;
         width: 75%;
     }
 .soy
