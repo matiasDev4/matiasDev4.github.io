@@ -453,6 +453,11 @@ header{
     color: #ffffff;
     transform:translateY(-10px)
 }
+.contenido-banner .redes span{
+ display: none
+}
+    
+
 .sobremi
 {
     background-color: #1f2020;
@@ -495,9 +500,10 @@ header{
 }
 .tengo 
 {
+    padding-top: 20px;
     padding-bottom: 20px;
     font-family: 'Pixel';
-    font-size: 30px;
+    font-size: 25px;
     letter-spacing: 5px;
     color: #dfdcdc;
 }
@@ -1543,7 +1549,7 @@ width: 100%;
 {
     padding-bottom: 20px;
     font-family: 'Pixel';
-    font-size: 20px;
+    font-size: 17px;
     letter-spacing: 5px;
     color: #dfdcdc;
 }
