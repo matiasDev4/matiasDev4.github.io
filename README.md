@@ -1,4 +1,4 @@
-# Hola! Este es el repositorio de mi portafolio
+# Hola!👋 Este es el repositorio de mi portafolio
 ### Desarrollado con los siguientes lenguajes:
 
 <p>
